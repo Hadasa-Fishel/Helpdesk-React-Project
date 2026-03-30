@@ -1,6 +1,6 @@
 # 🎫 Helpdesk & Ticket Management System
 
-`![Dashboard Screen]("helpdesk-client\צילום מסך 2026-03-18 171504.png")
+`![Dashboard Screen]("helpdesk-client\dashboard.png")
 
 A professional, full-stack oriented ticketing system built with **React 18** and **TypeScript**. This system manages the complete lifecycle of support tickets with a robust **Role-Based Access Control (RBAC)** architecture, ensuring secure and efficient communication between customers and support teams.
 
