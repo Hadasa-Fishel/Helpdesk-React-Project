@@ -8,11 +8,11 @@ A comprehensive, production-ready support system built with a modern tech stack.
 
 The system is divided into two main specialized environments:
 
-### 🖥️ [Client (Frontend)](./client)
+### 🖥️ [Client (Frontend)](helpdesk-client)
 Built with **React 18** and **TypeScript**, focusing on a dynamic and secure user experience. 
 * **Key Tech:** Vite, Material UI (MUI), Context API, JWT Auth.
 
-### ⚙️ [Server (Backend)](./server)
+### ⚙️ [Server (Backend)](helpdesk-api-main)
 A high-performance API built with **Node.js** and **TypeScript**, following a clean, layered architecture.
 * **Key Tech:** Express, SQLite, JWT, Swagger Documentation.
 
