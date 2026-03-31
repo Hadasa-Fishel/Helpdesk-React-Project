@@ -38,8 +38,4 @@ cd server && npm install && npm run dev
 Setup Client:
 
 Bash
-cd client && npm install && npm run dev
-👤 Author
-Hadassah Fishel - Fullstack Developer
-
-GitHub | LinkedIn
+cd client && npm install && npm run 
